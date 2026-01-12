@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "album-1",
+      "description": "Abstract album art with city lights",
+      "imageUrl": "https://images.unsplash.com/photo-1460574283810-2aab119d8511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMGNpdHl8ZW58MHx8fHwxNzY4MTE2OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract city"
+    },
+    {
+      "id": "album-2",
+      "description": "Vibrant and colorful abstract album art",
+      "imageUrl": "https://images.unsplash.com/photo-1554658506-487b008909d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aWJyYW50JTIwY29sb3JzfGVufDB8fHx8MTc2ODIwMjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vibrant colors"
+    },
+    {
+      "id": "album-3",
+      "description": "Geometric patterns album art",
+      "imageUrl": "https://images.unsplash.com/photo-1605106702734-205df224ecce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnZW9tZXRyaWMlMjBwYXR0ZXJuc3xlbnwwfHx8fDE3NjgyMDI0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric patterns"
+    },
+    {
+      "id": "album-4",
+      "description": "Nature-inspired album art with a soft glow",
+      "imageUrl": "https://images.unsplash.com/photo-1722092578466-b311075a4a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuYXR1cmUlMjBnbG93fGVufDB8fHx8MTc2ODIwNzYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature glow"
+    },
+    {
+      "id": "playlist-hero",
+      "description": "A calming landscape for the playlist hero image",
+      "imageUrl": "https://images.unsplash.com/photo-1644623256334-081c58fa8b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FsbSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NjgxNDE1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calm landscape"
+    }
+  ]
 }
