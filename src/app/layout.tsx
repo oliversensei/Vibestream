@@ -5,6 +5,7 @@ import { PlayerProvider } from '@/contexts/PlayerContext';
 import Sidebar from '@/components/layout/Sidebar';
 import Player from '@/components/layout/Player';
 import { Toaster } from '@/components/ui/toaster';
+import Footer from '@/components/layout/Footer';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -30,6 +31,7 @@ export default function RootLayout({
             </div>
           </div>
           <Toaster />
+          <Footer />
         </PlayerProvider>
       </body>
     </html>
